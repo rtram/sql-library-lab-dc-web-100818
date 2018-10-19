@@ -26,7 +26,7 @@ CREATE TABLE authors (
     name TEXT
 );
 
-CREATE TABLE sub-genres (
+CREATE TABLE sub_genres (
   id INTEGER PRIMARY KEY,
     name TEXT
 );
