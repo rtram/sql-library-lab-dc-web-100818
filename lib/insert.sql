@@ -19,7 +19,6 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Lad
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tyrion Lannister", "A Lannister always pays his debts", "human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Daenerys Targaryen", "If I look back I am lost", "human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Eddard Stark", "Winter is coming", "human", 1, 1);
-
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Character One", "motto one", "cylon", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Character Two", "motto two", "human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Character Three", "motto three", "cylon", 2, 2);
