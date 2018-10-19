@@ -1,5 +1,6 @@
 def select_books_titles_and_years_in_first_series_order_by_year
-  "SELECT book.titles, 
+  "SELECT titles,years
+    
   "
 end
 
