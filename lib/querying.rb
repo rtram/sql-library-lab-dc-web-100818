@@ -2,7 +2,7 @@ def select_books_titles_and_years_in_first_series_order_by_year
   "SELECT books.title, books.year
     FROM series
     LEFT JOIN books
-    ON series.id = books.series_id
+      ON series.id = books.series_id
     WHERE series.id = 1
     ORDER BY books.year
   ;"
@@ -39,7 +39,7 @@ end
 def select_series_title_with_most_human_characters
   "SELECT series.title
     FROM series
-    
+    JOIN 
   ;"
 end
 
